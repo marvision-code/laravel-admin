@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-      	"illuminate/support" : "~5.0",
+      	"illuminate/support" : "~5.0"
     },
     "require-dev": {
        
